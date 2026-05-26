@@ -8,13 +8,13 @@ An explainable email spam detection system that combines advanced data structure
 ## Screenshots
 
 ### Front Page
-![Front Page](screenshots/front vpage.png)
+![Front Page](screenshots/frontpage.png)
 
 ### Inbox
 ![Inbox](screenshots/inbox.png)
 
 ### DAG Information
-![DAG Information](screenshots/dag info.png)
+![DAG Information](screenshots/daginfo.png)
 
 ### DAG Analysis
 ![DAG Analysis](screenshots/dag.png)
@@ -26,13 +26,13 @@ An explainable email spam detection system that combines advanced data structure
 ![Preprocessing](screenshots/preprocess.png)
 
 ### Bloom Filter
-![Bloom Filter](screenshots/bloom filter.png)
+![Bloom Filter](screenshots/bloomfilter.png)
 
 ### Hash Table
 ![Hash Table](screenshots/hash.png)
 
 ### AVL Tree
-![AVL Tree](screenshots/avl tree.png)
+![AVL Tree](screenshots/avltree.png)
 
 ### Priority
 ![Priority](screenshots/priority.png)
@@ -41,13 +41,31 @@ An explainable email spam detection system that combines advanced data structure
 ![Tracking](screenshots/tracking.png)
 
 ### Task Tracker
-![Task Tracker](screenshots/task tracker.png)
+![Task Tracker](screenshots/tasktracker.png)
 
 ### Spam Score
 ![Spam Score](screenshots/score.png)
 
 ### ML Analysis
-![ML Analysis](screenshots/ml analysis.png)
+![ML Analysis](screenshots/mlanalysis.png)
+
+### Parsing
+![Parsing](screenshots/parsing.png)
+
+### Preprocessing
+![Preprocessing](screenshots/preprocess.png)
+
+### Priority
+![Priority](screenshots/priority.png)
+
+### Spam Score
+![Spam Score](screenshots/score.png)
+
+### Task Tracker
+![Task Tracker](screenshots/tasktracker.png)
+
+### Tracking
+![Tracking](screenshots/tracking.png)
 
 ## Project Overview
 
